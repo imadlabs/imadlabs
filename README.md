@@ -12,7 +12,7 @@
 
 ## 🌐 **Connect with me**
 
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align:middle;">](https://www.linkedin.com/in/afif-imad-eddine-5a0291153) [<img src="https://img.icons8.com/emoji/48/000000/hugging-face.png" alt="Hugging Face" style="vertical-align:middle;">](https://huggingface.co/Imed14205) [<img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" alt="Medium" style="vertical-align:middle;">](https://medium.com/@imad14205) [<img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" style="vertical-align:middle;">](mailto:imededdine.afif@gmail.com) [<img src="https://img.icons8.com/color/48/000000/upwork.png" alt="Upwork" style="vertical-align:middle;">](https://www.upwork.com/freelancers/~01b61ea074538b685c?mp_source=share)  
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" style="vertical-align:middle;">](https://www.linkedin.com/in/afif-imad-eddine-5a0291153) [<img src="https://img.icons8.com/emoji/48/000000/hugging-face.png" alt="Hugging Face" style="vertical-align:middle;">](https://huggingface.co/Imed14205) [<img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" alt="Medium" style="vertical-align:middle;">](https://medium.com/@imad14205) [<img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" style="vertical-align:middle;">](mailto:imededdine.afif@gmail.com) [<img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Upwork-logo.svg" alt="Upwork" style="vertical-align:middle; width:48px;">](https://www.upwork.com/freelancers/~01b61ea074538b685c?mp_source=share)  
 
 ---
 
