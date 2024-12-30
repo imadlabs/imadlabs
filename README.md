@@ -12,7 +12,7 @@
 
 ## 🌐 **Connect with me**
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/afif-imad-eddine-5a0291153)  
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afif-imad-eddine-5a0291153)  
 [![Hugging Face Badge](https://img.shields.io/badge/-Hugging%20Face-yellow?style=flat&logo=Hugging%20Face&logoColor=black)](https://huggingface.co/Imed14205)  
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@imad14205)  
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:imededdine.afif@gmail.com)  
