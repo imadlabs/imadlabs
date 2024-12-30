@@ -34,7 +34,20 @@
 
 - End-to-end AI solutions, from ideation to deployment  
 - Writing and educational content on AI/ML and NLP  
-- Collaborative development and problem-solving in AI-driven projects  
+- Collaborative development and problem-solving in AI-driven projects
+
+## 🧠 **About Me**
+
+I am an **AI/ML Engineer specialized in NLP** with experience in developing natural language models and machine learning algorithms. With strong technical skills and proven results, I have worked extensively with Large Language Models (LLMs) and Graph Neural Networks, applying them in diverse contexts to tackle complex challenges in artificial intelligence.  
+
+My expertise includes:
+
+- **Fine-tuning Large Language Models (LLMs):** Optimizing performance and adaptability for various applications.  
+- **Implementing Retrieval-Augmented Generation (RAG):** Enhancing model capabilities through advanced retrieval techniques.  
+- **Data Preprocessing & Model Optimization:** Ensuring data quality and refining model accuracy.  
+- **Deploying Scalable AI Solutions:** Building efficient, scalable systems that drive innovation and operational efficiency.  
+
+---
 
 ## 🏢 **Current Work**
 
