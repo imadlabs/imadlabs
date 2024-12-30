@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋 My name is Afif Imed Eddine 
 
 # 👨‍💻 AI Research Engineer | 🌐 Full-stack AI Engineer
 
@@ -12,10 +12,11 @@
 
 ## 🌐 **Connect with me**
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afif-imad-eddine-5a0291153)  
-[![Hugging Face Badge](https://img.shields.io/badge/-Hugging%20Face-yellow?style=flat&logo=Hugging%20Face&logoColor=black)](https://huggingface.co/Imed14205)  
-[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@imad14205)  
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:imededdine.afif@gmail.com)  
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://www.flaticon.com/free-icon/linkedin_3536505?term=linkedin&page=1&position=1&origin=search&related_id=3536505))](https://www.linkedin.com/in/afif-imad-eddine-5a0291153)  
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F9AA4B?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Imed14205)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@imad14205)  
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imededdine.afif@gmail.com)  
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b61ea074538b685c?mp_source=share)  
 
 ---
 
